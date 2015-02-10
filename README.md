@@ -15,10 +15,13 @@ Pomelo is also suitable for real-time web applications; its distributed architec
 
 ## Roadmap of this fork
 
+- [ ] More Documents
+- [ ] Scheduler. Maybe [Later](https://github.com/bunkat/later)
 - [ ] Replace log4js with [winston](https://github.com/winstonjs/winston)
-- [ ] [Promise](https://github.com/petkaantonov/bluebird) (handler,remote,etc.)
+- [ ] [Promise](https://github.com/petkaantonov/bluebird) handler,remote
 - [ ] [iojs](http://iojs.org) support
- 
+- [ ] Rethink distribution and process management
+
 
 ## Features
 
